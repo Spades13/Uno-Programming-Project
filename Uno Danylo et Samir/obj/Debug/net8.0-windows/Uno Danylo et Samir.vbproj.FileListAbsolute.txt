@@ -1,0 +1,17 @@
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\bin\Debug\net8.0-windows\Uno Danylo et Samir.exe
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\bin\Debug\net8.0-windows\Uno Danylo et Samir.deps.json
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\bin\Debug\net8.0-windows\Uno Danylo et Samir.runtimeconfig.json
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\bin\Debug\net8.0-windows\Uno Danylo et Samir.dll
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\bin\Debug\net8.0-windows\Uno Danylo et Samir.pdb
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno_Danylo_et_Samir.Form1.resources
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno_Danylo_et_Samir.Form2.resources
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.vbproj.GenerateResource.cache
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.AssemblyInfoInputs.cache
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.AssemblyInfo.vb
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.vbproj.CoreCompileInputs.cache
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.dll
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\refint\Uno Danylo et Samir.dll
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.pdb
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\Uno Danylo et Samir.genruntimeconfig.cache
+C:\Users\ddemi\source\repos\Uno Danylo et Samir\obj\Debug\net8.0-windows\ref\Uno Danylo et Samir.dll
